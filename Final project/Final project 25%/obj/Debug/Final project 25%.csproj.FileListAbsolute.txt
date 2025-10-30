@@ -1,0 +1,11 @@
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\bin\Debug\Final project 25%.exe.config
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\bin\Debug\Final project 25%.exe
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\bin\Debug\Final project 25%.pdb
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\obj\Debug\Final project 25%.csproj.AssemblyReference.cache
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\obj\Debug\Final_project_25_.Form1.resources
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\obj\Debug\Final_project_25_.Properties.Resources.resources
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\obj\Debug\Final project 25%.csproj.GenerateResource.cache
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\obj\Debug\Final project 25%.csproj.CoreCompileInputs.cache
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\obj\Debug\Final project 25%.exe
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\obj\Debug\Final project 25%.pdb
+C:\Users\Joshua T\source\repos\Final project 25%\Final project 25%\obj\Debug\Final project 25%.exe.config
