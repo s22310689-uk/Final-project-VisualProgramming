@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joshua T\\source\\repos\\Final project - VP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD6438E8-E216-48F8-B69F-DA761EFE2B85}|Final project 25%\\Final project.csproj|c:\\users\\joshua t\\source\\repos\\final project - vp\\final project 25%\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD6438E8-E216-48F8-B69F-DA761EFE2B85}|Final project 25%\\Final project.csproj|solutionrelative:final project 25%\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Joshua T\\source\\repos\\Final project - VP\\Control\\RoundedButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Control\\RoundedButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoundedButton.cs",
+              "DocumentMoniker": "C:\\Users\\Joshua T\\source\\repos\\Final project - VP\\Control\\RoundedButton.cs",
+              "RelativeDocumentMoniker": "Control\\RoundedButton.cs",
+              "ToolTip": "C:\\Users\\Joshua T\\source\\repos\\Final project - VP\\Control\\RoundedButton.cs",
+              "RelativeToolTip": "Control\\RoundedButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:21:44.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Joshua T\\source\\repos\\Final project - VP\\Final project 25%\\MainForm.cs",
+              "RelativeDocumentMoniker": "Final project 25%\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Joshua T\\source\\repos\\Final project - VP\\Final project 25%\\MainForm.cs [Design]",
+              "RelativeToolTip": "Final project 25%\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:21:05.224Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
